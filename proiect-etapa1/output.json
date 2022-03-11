@@ -1,0 +1,9 @@
+[ {
+  "id" : 0,
+  "isBankrupt" : false,
+  "budget" : 63
+}, {
+  "id" : 1,
+  "isBankrupt" : false,
+  "budget" : 61
+} ]
